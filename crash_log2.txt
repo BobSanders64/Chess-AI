@@ -1,0 +1,156 @@
+
+=== Diagnostic run started at Thu Jun  5 16:33:36 2025 ===
+
+[Thu Jun  5 16:33:41 2025] Iteration #5 - Crash during get_stockfish_evaluation()
+FEN: 8/2Pr1p2/1r1Qb2r/kp5q/R6r/r5N1/7K/4N3 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♙ ♜ ⭘ ♟ ⭘ ⭘
+⭘ ♜ ⭘ ♕ ♝ ⭘ ⭘ ♜
+♚ ♟ ⭘ ⭘ ⭘ ⭘ ⭘ ♛
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♜
+♜ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♔
+⭘ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:33:45 2025] Iteration #7 - Crash during get_stockfish_evaluation()
+FEN: 2r5/PppB1pP1/pPk1PPP1/2PppKp1/4pr2/p1N5/1PR4p/8 w - - 0 1
+Board Diagram:
+⭘ ⭘ ♜ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♟ ♟ ♗ ⭘ ♟ ♙ ⭘
+♟ ♙ ♚ ⭘ ♙ ♙ ♙ ⭘
+⭘ ⭘ ♙ ♟ ♟ ♔ ♟ ⭘
+⭘ ⭘ ⭘ ⭘ ♟ ♜ ⭘ ⭘
+♟ ⭘ ♘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♙ ♖ ⭘ ⭘ ⭘ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:33:49 2025] Iteration #9 - Crash during get_stockfish_evaluation()
+FEN: 8/3p2k1/P3rPp1/R3p3/bbR3p1/1Kp2P1P/PP1nn2P/1b5B w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♟ ⭘ ⭘ ♚ ⭘
+♙ ⭘ ⭘ ⭘ ♜ ♙ ♟ ⭘
+♖ ⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘
+♝ ♝ ♖ ⭘ ⭘ ⭘ ♟ ⭘
+⭘ ♔ ♟ ⭘ ⭘ ♙ ⭘ ♙
+♙ ♙ ⭘ ♞ ♞ ⭘ ⭘ ♙
+⭘ ♝ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:33:53 2025] Iteration #10 - Crash during get_stockfish_evaluation()
+FEN: 8/8/5K2/8/k7/8/2B3n1/8 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♔ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♚ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ♞ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:33:57 2025] Iteration #15 - Crash during get_stockfish_evaluation()
+FEN: 8/6p1/2K5/1p6/7p/r1p4p/k3Q1r1/n7 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+⭘ ⭘ ♔ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟
+♜ ⭘ ♟ ⭘ ⭘ ⭘ ⭘ ♟
+♚ ⭘ ⭘ ⭘ ♕ ⭘ ♜ ⭘
+♞ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:34:01 2025] Iteration #19 - Crash during get_stockfish_evaluation()
+FEN: 4R3/3b1rp1/pP4p1/2b3P1/1p2Rn2/BpN2Pk1/3p2Q1/1K6 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ♖ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♝ ⭘ ♜ ♟ ⭘
+♟ ♙ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+⭘ ⭘ ♝ ⭘ ⭘ ⭘ ♙ ⭘
+⭘ ♟ ⭘ ⭘ ♖ ♞ ⭘ ⭘
+♗ ♟ ♘ ⭘ ⭘ ♙ ♚ ⭘
+⭘ ⭘ ⭘ ♟ ⭘ ⭘ ♕ ⭘
+⭘ ♔ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:34:04 2025] Iteration #20 - Crash during get_stockfish_evaluation()
+FEN: 8/8/8/8/2K1b3/8/7k/6B1 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♔ ⭘ ♝ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+=== Diagnostic run started at Thu Jun  5 16:34:10 2025 ===
+
+[Thu Jun  5 16:34:15 2025] Iteration #5 - Crash during get_stockfish_evaluation()
+FEN: 2R2b2/p3P1pp/2Pp1P2/p3pNp1/2P1p1P1/2bp1p2/P1kR1KPp/R2B4 w - - 0 1
+Board Diagram:
+⭘ ⭘ ♖ ⭘ ⭘ ♝ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ♙ ⭘ ♟ ♟
+⭘ ⭘ ♙ ♟ ⭘ ♙ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ♟ ♘ ♟ ⭘
+⭘ ⭘ ♙ ⭘ ♟ ⭘ ♙ ⭘
+⭘ ⭘ ♝ ♟ ⭘ ♟ ⭘ ⭘
+♙ ⭘ ♚ ♖ ⭘ ♔ ♙ ♟
+♖ ⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:34:19 2025] Iteration #10 - Crash during get_stockfish_evaluation()
+FEN: 6r1/p2k2PP/BN6/2P1P3/N2p2bp/2N4R/2P1p1p1/3K4 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♜ ⭘
+♟ ⭘ ⭘ ♚ ⭘ ⭘ ♙ ♙
+♗ ♘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘
+♘ ⭘ ⭘ ♟ ⭘ ⭘ ♝ ♟
+⭘ ⭘ ♘ ⭘ ⭘ ⭘ ⭘ ♖
+⭘ ⭘ ♙ ⭘ ♟ ⭘ ♟ ⭘
+⭘ ⭘ ⭘ ♔ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+[Thu Jun  5 16:34:23 2025] Iteration #13 - Crash during get_stockfish_evaluation()
+FEN: 8/Q1K3p1/4p3/8/2pP2pp/4n2p/k3pp2/r1B5 w - - 0 1
+Board Diagram:
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♕ ⭘ ♔ ⭘ ⭘ ⭘ ♟ ⭘
+⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♟ ♙ ⭘ ⭘ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ♞ ⭘ ⭘ ♟
+♚ ⭘ ⭘ ⭘ ♟ ♟ ⭘ ⭘
+♜ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+Traceback or Info:
+Process exited unexpectedly (poll() != None).
+--------------------------------------------------------------------------------
+
+=== Diagnostic run ended at Thu Jun  5 16:34:24 2025 ===
